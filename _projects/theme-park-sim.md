@@ -16,4 +16,4 @@ More info about the project can be found on its corresponding [Github page](http
 
 If you want to see it in action, you can visit [this page](https://mickey1356.github.io/sim_project) for a hands-on demo, or watch this [video](https://www.youtube.com/watch?v=8OWnYG8p9ls).
 
-Oh yeah, this project was built using [p5.js](https://p5js.org/).
+This project was built using [p5.js](https://p5js.org/).
